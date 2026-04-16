@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 5000;
 
 // CORS FIX
 app.use(cors({
-  origin: "https://chat-app-ten-orcin-32.vercel.app",
+  origin: "https://chat-h9n0s2zxm-sanchit-saraswats-projects.vercel.app",
   credentials: true
 }));
 
