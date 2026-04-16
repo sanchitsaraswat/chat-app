@@ -21,7 +21,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://chat-app-ten-orcin-32.vercel.app/login"
+      "https://chat-app-ten-orcin-32.vercel.app"
     ],
     credentials: true,
   })
